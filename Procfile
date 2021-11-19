@@ -1,1 +1,1 @@
-web: gunicorn instargram-master.wsgi
+web: gunicorn instargram.wsgi
